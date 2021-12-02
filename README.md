@@ -6,7 +6,7 @@
 - [__BackEnd__](https://github.com/EXPedro/devweek_backend) do projeto
 
 
-[<img src = "https://encurtador.com.br/axyLS" width = "auto" height = "23px">](https://github.com/angular/angular-cli)   Utiliza a versão 12 do [__Angular CLI__](https://angular.io/cli)
+:zap: Utiliza a versão 12 do [__Angular CLI__](https://angular.io/cli)
 
 ### Para rodar o servidor de desenvolvimento:
 
